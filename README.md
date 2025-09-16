@@ -13,5 +13,5 @@ The dashboards help identify trends, measure profitability, and support better b
 - Sales rep performance comparison
 ___
 ## Dashboard Screenshots
-![Sales Performance](screenshots/sales.png)
+![Sales Performance](sereenshots/sales.png)
 
