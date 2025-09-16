@@ -7,10 +7,11 @@ It provides actionable insights into sales performance, customer behavior, retur
 The dashboards help identify trends, measure profitability, and support better business decisions.
 
 **Key Features**
-- Track sales, orders, and profit trends  
-- Customer segmentation with **RFM analysis**  
+- Track sales, orders trends  
 - Returns analysis by region, customer, and ship mode  
 - Sales rep performance comparison
+- Customer segmentation with **RFM analysis**  
+
 ___
 ## Dashboard Screenshots
 
