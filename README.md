@@ -1,7 +1,7 @@
 # **Global Superstore Project - Power BI** 
 
 **Project Overview**
-___
+
 The Global Superstore Project is a data analysis and visualization project built with Power BI.
 It provides actionable insights into sales performance, customer behavior, returns, and sales representatives across different regions and years.
 The dashboards help identify trends, measure profitability, and support better business decisions.
